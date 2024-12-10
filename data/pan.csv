@@ -1,0 +1,19 @@
+study;.guidance;.type_digital;condition_arm1;condition_arm2;multi_arm1;multi_arm2;instrument;.g;.g_se;mean_arm1;sd_arm1;n_arm1;mean_arm2;sd_arm2;n_arm2;baseline_m_arm1;baseline_sd_arm1;baseline_n_arm1;baseline_m_arm2;baseline_sd_arm2;baseline_n_arm2;rob;year;format;mean_age;percent_women;recruitment;diagnosis;n_randomized;prop_agoraphobics;diagnosis_by
+Allen, 2016;gsh;internet;CBT;WL;NA;NA;PDSS-SR;0,972512153;0,324292278;6,36;5,2;16;11,75;5,57;31;13;5,73;27;12,14;5,74;36;low;2016;ush;38;84;community;PD;67;NA;DSM-III-TR
+Berger, 2017;ush;internet;CBT;WL;NA;NA;ACQ;0,428159616;0,215108136;1,88;0,69;48;2,18;0,7;41;2,24;0,64;48;2,29;0,58;41;low;2017;ush;NA;NA;mixed;PD;89;NA;DSM-III-TR
+Carlbring, 2006;gsh;internet;CBT;WL;NA;NA;ACQ;1,463106724;0,291510229;21,6;6,3;30;33,9;9,9;30;34,4;8,6;30;35,8;10,1;30;some concerns;2006;gsh;36.7;60;community;PD w/o A;60;NA;DSM-III-TR
+Carlbring, 2001;gsh;internet;CBT;WL;NA;NA;ACQ;1,043488617;0,333807236;22,43;6;21;30,9;9,6;20;31,7;6,5;21;32,9;9,4;20;high;2001;gsh;34;70.5;community;PD;41;NA;DSM-III-TR
+Ciuca, 2018;gsh;internet;CBT;WL;CBT (skype);WL;PDSS-SR;1,224357429;0,253845245;5,16;5,7;36;12,27;5,79;38;16,42;4,76;36;15,74;4,91;38;some concerns;2018;gsh;35.2;68;community;PD;111;52;DSM-III-TR
+Ciuca, 2018;ush;internet;CBT;WL;CBT (ush);WL;PDSS-SR;0,806043895;0,2403433;7,51;5,9;37;12,27;5,79;38;15,54;4,51;37;15,74;4,91;38;some concerns;2018;ush;35.2;68;community;PD;111;52;DSM-III-TR
+Kenardy, 2003;gsh;computer;CBT;WL;CBT (CA-6);WL;ACQ;1,240099086;0,241529475;1,68;0,62;41;2,59;0,82;41;2,7;0,82;41;2,71;0,67;41;high;2003;mixed;36.8;75.5;clinical;PD;186;76.1;DSM-III-TR
+Klein, 2006;gsh;internet;CBT;TAU/NT;CBT (online);TAU/NT;PDSS;2,463631002;0,440301649;6,18;6,2;19;19,78;4,4;18;21,11;3,7;19;19,14;4,5;18;high;2006;gsh;NA;80;community;PD;55;82;DSM-III-TR
+Meyerbroeker, 2013;gsh;vr;BT;WL;BT (VR);WL;PDSS;0,901555143;0,429010441;1,1;0,82;10;1,82;0,74;15;1,75;0,76;19;2,15;0,78;18;high;2013;VR;NA;NA;mixed;PD w/ A;55;100;DSM-III-TR
+Oromendia, 2016;gsh;internet;CBT;WL;CBT (WEB);WL;PDSS-SR;0,692712538;0,285995297;10,42;3,14;27;13,13;4,5;25;15,29;4,21;27;13,08;3,81;25;high;1997;ush;40.7;68.8;community;PD;77;NA;DSM-III-TR
+Oromendia, 2016;gsh;internet;CBT;WL;CBT (WEB + support);WL;PDSS-SR;1,650918034;0,328834448;7,21;2,16;25;13,13;4,5;25;15,75;4,52;25;13,08;3,81;25;high;1997;gsh;40.7;68.8;community;PD;77;NA;DSM-III-TR
+Richards, 2006;gsh;internet;CBT;PE;CBT (PO1);PE;PDSS;1,301676827;0,488076099;9,54;5,7;12;16,78;4,8;9;16,54;4,2;12;17;5,3;9;high;2006;gsh;36.6;68.5;community;PD;32;78;DSM-III-TR
+Richards, 2006;gsh;internet;CBT;PE;CBT (PO2);PE;PDSS;2,19199606;0,577039077;6,77;4;11;16,78;4,8;9;19;4;11;17;5,3;9;high;2006;gsh;36.6;68.5;community;PD;32;78;DSM-III-TR
+Ruwaard, 2010;gsh;internet;CBT;WL;NA;NA;PDSS-SR;0,547079172;0,268227671;5,9;4,4;27;8,4;4,6;31;9;5,5;27;9,4;5,4;31;some concerns;2010;gsh;38;72;community;PD;58;NA;DSM-III-TR
+Silfvernagel, 2012;gsh;internet;CBT;WL;NA;NA;PDSS;1,395068734;0,296220592;6,39;4,97;29;13,79;5,49;28;21,54;4,95;29;13,71;5,25;28;some concerns;2012;gsh;32.4;65;community;PD;57;83;DSM-III-TR
+Titov, 2010;gsh;internet;CBT;WL;NA;NA;PDSS-SR;1,253964889;0,481178497;7,7;3,97;10;15;6,72;11;12,8;6,55;10;15,18;5,67;11;some concerns;2010;gsh;NA;NA;community;PD;21;NA;DSM-III-TR
+van Ballegooijen, 2013;gsh;internet;CBT;WL;NA;NA;PDSS-SR;0,304267161;0,179214677;5,8;4,9;63;7,3;4,9;63;8,8;3,2;63;9,1;2,8;63;high;2013;gsh;36.6;67.4;community;PD;126;63;DSM-III-TR
+Wims, 2010;gsh;internet;CBT;WL;NA;NA;PDSS;0,585768772;0,278843994;12,14;5,74;29;15,56;5,77;25;17,1;4,84;29;16,44;4,63;25;high;2010;gsh;42;76;community;PD w/ A;59;100;DSM-III-TR

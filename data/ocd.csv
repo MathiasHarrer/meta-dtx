@@ -1,0 +1,15 @@
+study;.guided;.type_digital;condition_arm1;condition_arm2;descr_arm1;descr_arm2;instrument;rating;mean_arm1;sd_arm1;n_arm1;mean_arm2;sd_arm2;n_arm2;baseline_mean_arm1;baseline_sd_arm1;baseline_n_arm1;baseline_mean_arm2;baseline_sd_arm2;baseline_n_arm2;rand_n_ig;rand_n_cg;attr_ig;attr_cg;year;mean_age;percent_women;percent_med_arm1;percent_med_arm2;recruitment;rob
+Andersson,2012;gsh ;internet;cbt;psychological placebo;internet-based cbt (iCBT);supportive therapy;ybocs;cr;12,94;6,26;49;18,88;4,18;51;21,42;4,59;50;20,8;4,04;51;50;51;2;0;2012;34;0.66;0.2;0.25;com;Some concerns
+Andersson,2012;gsh ;internet;cbt;psychological placebo;iCBT;;oci-r;cr;12,5;10,15;48;19,22;11,52;51;24,36;13,25;50;19,86;9,48;51;50;51;2;0;2012;34;0.66;0.2;0.25;com;Some concerns
+Greist,2002;ush;computer;erp;psychological placebo;self-help (online);systematic relaxation;ybocs;sr;19;7,2;55;24,1;6,7;66;24,6;4,3;55;25,8;5,1;66;74;75;19;9;2002;39;0.42;NR;NR;com;High risk
+Hawley,2021;ush;mobile;third wave;wl;mindfulness- based meditation;_;ybocs;sr;;;;;;;;;;;;;36;35;1;1;2021;26;NR;0.37;0.31;clin;Some concerns
+Kyrios,2018;gsh;internet;cbt;psychological placebo;internet-based;progressive relaxation;ybocs;cr;15,86;5,65;89;19,15;6,45;90;22,44;5,36;89;22,13;5,73;90;89;90;37;27;2018;33;0.66;0.71;0.75;com;High risk
+Mahoney,2014;ush;internet;cbt;wl;internet-based;;docs;sr;19,83;12,71;24;29,11;12,21;35;34,5;14,83;32;31,8;11,49;35;44;42;20;7;2014;39;0.6;0.38;0.29;com;High risk
+Mahoney,2014;ush;internet;cbt;wl;;;obq-20 ;sr;70,71;25,53;24;92,31;26,07;35;95,34;23,65;32;96,49;22,66;35;44;42;20;7;2014;39;0.6;0.38;0.29;com;High risk
+Matsumoto,2022;gsh;internet;cbt;wl;guided internet-based;;ybocs;cr;14,71;5,65;14;20,87;7,23;16;22,5;4,15;14;24,31;6,28;16;15;16;1;0;2022;30;0.57;NR;NR;com;Some concerns
+Matsumoto,2022;gsh;internet;cbt;wl;;;oci ;sr;14,71;5,65;14;20,87;7,23;16;22,5;4,15;14;24,31;6,28;16;15;16;1;0;2022;30;0.57;NR;NR;com;Some concerns
+Vogel,2014;ush;computer;erp;wl;ush;;ybocs;cr;22,7;5,6;10;23,4;4,8;10;24,1;2,7;10;23,4;2,8;10;10;10;1;2;2014;35;0.6;NR;NR;clin;High risk
+Vogel,2014;ush;computer;erp;wl;ush;;voci;sr;57,4;40,1;10;65,5;22,3;10;64,9;32;10;63,7;23,1;10;10;10;1;2;2014;35;0.6;NR;NR;clin;High risk
+Wootton,2013;gsh;internet;cbt;wl;internet cbt;;ybocs;cr;12,38;5,27;15;20,49;5,07;17;23,53;5,07;15;21,06;5,11;17;17;19;6;5;2013;39;0.78;0.6;0.77;com;High risk
+Wootton,2013;gsh;internet;cbt;wl;internet cbt;;docs;sr;7,93;4,38;15;10,66;4,04;17;12,07;3,49;15;11,94;3,5;17;17;19;7;3;2013;39;0.78;0.6;0.77;com;High risk
+Wu,2023;gsh;internet;cbt;cau;;;ybocs;cr;13,28;5,33;32;16;4,96;33;22,06;4,48;32;21,82;3,06;33;33;33;1;0;2023;28;0.37;0.85;0.85;clin;High risk
